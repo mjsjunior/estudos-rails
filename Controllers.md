@@ -36,3 +36,5 @@ Quando uma requisição GET for realizada em /inicio o controller Home será cha
 ```
 match 'categorias/:nome', controller: 'categorias', action: 'show', via: 'get'
 ```
+
+[SOBRE ROTAS](/Routes.md)
